@@ -5243,3 +5243,16 @@
 223.255.0.0/17
 223.255.236.0/22
 223.255.252.0/23
+
+
+[bypass_list]
+(^|\.)skyso\.cc$
+(^|\.)fastso\.net$
+(^|\.)github\.com$
+(^|\.)wx\.tenpay\.com$
+(^|\.)msdk\.qq\.com$
+(^|\.)flyso\.cc$
+(^|\.)jisu\.io$
+(^|\.)google\.com$
+(^|\.)facebook\.com$
+(^|\.)youtube\.com$
